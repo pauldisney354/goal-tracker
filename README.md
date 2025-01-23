@@ -1,5 +1,4 @@
-# goal-tracker
-# GoalTracker
+# EverGrow
 
 ## Project Overview
 GoalTracker is a productivity application designed to help users set, track, and achieve their personal and professional goals. By providing an intuitive interface, customizable goal-setting features, and progress tracking, GoalTracker empowers individuals to turn their aspirations into reality.
